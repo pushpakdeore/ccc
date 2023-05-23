@@ -1,0 +1,7 @@
+1. Install Java Development Kit JDK.
+2. Install Java Run time Enviornment JRE.
+3. Install Eclipse. here choose "Eclipse IDE for Jva Developers" option
+
+4. Install Cloudsim
+
+5.Open eclipse, 
